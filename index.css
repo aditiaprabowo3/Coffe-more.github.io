@@ -403,7 +403,7 @@ footer h6{
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
     .section-banner .text-content h1{
-        font-size: 55px;
+        font-size: 68px;
         font-weight: 600;
     }
     .section-banner .text-content p{
@@ -415,8 +415,8 @@ footer h6{
     .section-banner .img-content img{
         width: 170%;
         height: 170%;
-        margin-left: -320px;
-        margin-top: -40px;
+        margin-left: -360px;
+        margin-top: -50px;
     }
     .navbar ul li .active::after{
         content: '';
